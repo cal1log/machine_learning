@@ -9,3 +9,5 @@
 ## 24 may 2021 - lesson 4
 
 ## 25 may 2021 - lesson 5
+
+## 1 jun 2021 - lesson 6
